@@ -115,7 +115,7 @@ export default function Contact() {
               <div>
                 <h3 className="text-base md:text-xl font-semibold text-white mb-1">Email</h3>
                 <a
-                  href="mailto:syedfaiezahmed@gmail.com"
+                  href="mailto:talhajawaid601@gmail.com"
                   className="text-xs md:text-sm text-[#d1c9c3] hover:text-amber-400 transition-colors break-all"
                 >
                   talhajawaid601@gmail.com
