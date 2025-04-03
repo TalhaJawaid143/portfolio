@@ -12,7 +12,7 @@ const HeroSection = () => {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
     link.href = 'https://personall-resume.vercel.app/';
-    link.download = 'TalhaJawaid.pdf'; 
+    link.download = 'https://personall-resume.vercel.app/'; 
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
