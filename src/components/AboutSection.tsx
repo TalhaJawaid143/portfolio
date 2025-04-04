@@ -145,7 +145,7 @@ const AboutSection = () => {
                 className="inline-flex items-center px-8 py-3.5 rounded-full bg-gradient-to-r from-amber-500 to-red-600 text-white font-medium hover:shadow-lg transition-all cursor-pointer"
               >
                 <Rocket className="w-5 h-5 mr-2" />
-                Begin Collaborating Now! 🤝
+                Begin Collaborating Now!
               </motion.button>
             </motion.div>
           </div>
