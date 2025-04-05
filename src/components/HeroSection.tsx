@@ -11,8 +11,8 @@ const HeroSection = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = 'https://personall-resume.vercel.app/';
-    link.download = 'https://personall-resume.vercel.app/'; 
+    link.href = 'https://personall-resume-i3luv129p-talhajawaid143s-projects.vercel.app/';
+    link.download = 'https://personall-resume-i3luv129p-talhajawaid143s-projects.vercel.app/'; 
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
