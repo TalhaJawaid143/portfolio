@@ -11,8 +11,8 @@ const HeroSection = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = 'https://personall-resume-i3luv129p-talhajawaid143s-projects.vercel.app/';
-    link.download = 'https://personall-resume-i3luv129p-talhajawaid143s-projects.vercel.app/'; 
+    link.href = '/Talha Jawaid_CV.pdf';
+    link.download = 'Talha Jawaid_CV.pdf';
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
