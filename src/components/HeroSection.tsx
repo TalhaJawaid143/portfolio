@@ -11,8 +11,8 @@ const HeroSection = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Talha Jawaid_CV.pdf';
-    link.download = 'Talha Jawaid_CV.pdf';
+    link.href = '/Resume.pdf';
+    link.download = 'Resume.pdf';
     link.target = '_blank';
     document.body.appendChild(link);
     link.click();
